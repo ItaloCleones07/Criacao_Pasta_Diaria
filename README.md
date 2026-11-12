@@ -33,7 +33,7 @@ Criacao_Pasta/
 3. Execute o script pelo terminal:
 
 ```bash
-python criar_pasta.py
+python main.py
 ```
 
 ## Requisitos
